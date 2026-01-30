@@ -1,5 +1,5 @@
 [project]
-name = "apiforge"
+name = "apiforge-cli"
 version = "0.1.0"
 description = "Generate clean, async, typed Python API clients from OpenAPI specs"
 readme = "README.md"
